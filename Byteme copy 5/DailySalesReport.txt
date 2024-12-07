@@ -1,0 +1,20 @@
+=======================================
+           Daily Sales Report          
+=======================================
+Total Orders Processed: 0
+Total Sales: ₹0.0
+Total Refunds Issued: ₹1000.0
+Net Sales (After Refunds): ₹-1000.0
+Most Popular Item: None
+=======================================
+Order Details:
+=======================================
+Refunded Orders:
+Order ID: ORD1
+Customer: anshul
+VIP: false
+Status: Refunded
+Special Request: no spice
+Items:
+  - Burger x 10 (₹100.0 each)
+
