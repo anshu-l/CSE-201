@@ -1,0 +1,17 @@
+=======================================
+           Daily Sales Report          
+=======================================
+Total Orders Processed: 0
+Total Sales: ₹0.0
+Total Refunds Issued: ₹150.0
+Net Sales (After Refunds): ₹-150.0
+Most Popular Item: None
+=======================================
+Order Details:
+=======================================
+Refunded Orders:
+Order ID: ORD1, Customer: anshul, Status: Refunded, VIP: false
+Items:
+- item1 x 3
+Special Request: refund
+
